@@ -65,3 +65,21 @@ ___Pwani university___
 <h6> level6 </h6>
 
 Basic introduction guide to Github
+
+
+### BIOINFORMATICS STUDENTS
+
+ |ID |NAME |CONTACT|
+ |---|:---:|---:|
+ 1|MWANAMKUU|076453|
+ 2|GEORGE|0745463|
+ 3|BRENDA|97635478|
+ 
+
+
+
+
+
+
+
+
